@@ -1,0 +1,11 @@
+div {
+  float: right;
+}
+P {
+  display: inline-block;
+  margin-right: 25px;
+  color: #fff;
+  font-size: 1.3rem;
+  background: transparent;
+
+}

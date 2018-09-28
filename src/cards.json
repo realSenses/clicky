@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "image": "images/animals-01.png"
+  },
+  {
+    "id": 2,
+    "image": "images/animals-02.png"
+  },  {
+    "id": 3,
+    "image": "images/animals-03.png"
+  },  {
+    "id": 4,
+    "image": "images/animals-04.png"
+  },  {
+    "id": 5,
+    "image": "images/animals-05.png"
+  },  {
+    "id": 6,
+    "image": "images/animals-06.png"
+  },  {
+    "id": 7,
+    "image": "images/animals-07.png"
+  },  {
+    "id": 8,
+    "image": "images/animals-08.png"
+  },  {
+    "id": 9,
+    "image": "images/animals-09.png"
+  },  {
+    "id": 10,
+    "image": "images/animals-10.png"
+  },  {
+    "id": 11,
+    "image": "images/animals-11.png"
+  },  {
+    "id": 12,
+    "image": "images/animals-12.png"
+  }
+]

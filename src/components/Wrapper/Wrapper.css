@@ -1,0 +1,14 @@
+.wrapper {
+    background-color: #fff;
+    padding-top: 50px;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    border-bottom: 1px solid #d0d0d0;
+    background: linear-gradient(to right, #16a085, #f4d03f);
+  }
+  

@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+/*.App-logo {
+  animation: App-logo-spin infinite 20s linear; //TODO Add Logo
+  height: 80px;
+}*/
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+body {
+  background: linear-gradient(to right, #16a085, #f4d03f);
+
+}
+
+/*@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+} */
+
+header {
+  width: 100%;
+  height: 50px;
+  font-family: 'Kodchasan', sans-serif;
+  font-weight: bold;
+  background-color:rgb(4, 22, 19);
+  padding-bottom: 7px;
+
+}
+
+header p {
+ margin-left: 25px;
+}

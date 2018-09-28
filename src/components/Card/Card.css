@@ -1,0 +1,11 @@
+.card {
+  border-radius: 2px;
+  margin: 1rem;
+  position: relative;
+  text-align: left;
+  background: transparent;
+}
+
+img {
+  width: 125px; 
+}
