@@ -2,7 +2,7 @@
   "name": "clicky",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jstudenski.github.io/clicky",
+  "homepage": "https://realsenses.github.io/clicky",
   "dependencies": {
     "gh-pages": "^2.0.0",
     "prop-types": "^15.6.1",
